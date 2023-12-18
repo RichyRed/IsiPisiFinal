@@ -75,7 +75,7 @@
             id: 2,
             imageSrc: require("../assets/gabriel.png"),
             imageAlt: "Team Member 2",
-            hoverText: "Departamento de Sistemas",
+            hoverText: "CEO",
             hovered: false,
             title: "Gabriel", // Añadido título a la tarjeta
           },
@@ -83,7 +83,7 @@
             id: 3,
             imageSrc: require("../assets/richard.png"),
             imageAlt: "Team Member 3",
-            hoverText: "Departamento de Incorporación de Emprendimientos ",
+            hoverText: "Departamento de Sistemas ",
             hovered: false,
             title: "Richard", // Añadido título a la tarjeta
           },
@@ -99,7 +99,7 @@
           },
           {
             id: 5,
-            imageSrc: require("../assets/TrajesitoIsi.png"),
+            imageSrc: require("../assets/juan.png"),
             imageAlt: "Team Member 5",
             hoverText: "Departamento Financiero y Administrativo",
             hovered: false,

@@ -49,7 +49,7 @@
   </script>
   
   <style scoped>
-  .ceo-part {
+  .ceo {
     display: flex;
     justify-content: space-between;
     align-items: center;

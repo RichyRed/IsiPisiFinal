@@ -6,7 +6,6 @@
       <PagePublicity />
       <AboutUs />
       <CeoPart />
-      <CioPart />
       <SupportPart />
       <CalidadPart />
       <ExpCliente />
@@ -29,7 +28,7 @@ import CoverImage from "./components/CoverImage.vue";
 import AboutUs from "./components/AboutUs.vue";
 import ImagePart from "./components/ImagesPart.vue"
 import CeoPart from "./components/CeoPart.vue";
-import CioPart from "./components/CioPart.vue";
+
 import SupportPart from "./components/SuportPart.vue";
 import CalidadPart from "./components/CalidadPart.vue";
 import ExpCliente from "./components/ExpCliente.vue";
@@ -48,7 +47,7 @@ export default {
     AboutUs,
     ImagePart,
     CeoPart,
-    CioPart,
+
     SupportPart,
     CalidadPart,
     ExpCliente,

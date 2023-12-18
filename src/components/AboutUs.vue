@@ -1,5 +1,5 @@
 <template>
-  <div class="about-us">
+  <div class="about">
     <div class="section">
       <h2><a href="https://docs.google.com/document/d/13sS_AZD0_I6QP7g2kagtUmJ5ZcH6v-oRNgCBIxMRIU0/edit" class="title-link">¿Quienes Somos?</a></h2>
       <p>
@@ -24,7 +24,7 @@
 </template>
 
 <style scoped>
-.about-us {
+.about {
   display: flex;
   justify-content: space-around;
   padding: 20px; /* Espacio alrededor del componente */

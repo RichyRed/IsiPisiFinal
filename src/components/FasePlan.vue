@@ -37,7 +37,7 @@
   export default {
     data() {
       return {
-        title: "Fase de Planificación",
+        title: "Diagrama Jerárquico",
         imageSrc: require("../assets/jerarquico.png"),
         imageAlt: "Descripción de la imagen",
         subtitle1: { text: "Manual de Funciones", link: "https://docs.google.com/document/d/1r5chdRhAXwVsMvjwzONsyeI59GfgzgypPfMTTC3yqPw/edit" },
